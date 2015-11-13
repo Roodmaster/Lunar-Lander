@@ -8,12 +8,12 @@ This simple version of Lunar Lander is based on jQuery (https://github.com/jquer
 ## How to run the game
 
 Go into the folder you have downloaded the files, for example:
-  cd ~/User/Downloads/lunar-lander
+  ``cd ~/User/Downloads/lunar-lander``
 
 Then start a simple web server in this directory:
-  python -m SimpleHTTPServer
+  ``python -m SimpleHTTPServer``
 
-Visit with your browser 0.0.0.0:8000 and enjoy.
+Visit with your browser **0.0.0.0:8000** and enjoy.
 
 ##Licence
 
